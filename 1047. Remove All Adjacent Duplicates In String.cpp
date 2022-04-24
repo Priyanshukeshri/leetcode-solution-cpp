@@ -26,7 +26,6 @@ public:
 };
 
 //Two pointer:
-//https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/discuss/294893/JavaC%2B%2BPython-Two-Pointers-and-Stack-Solution
 //Runtime: 20 ms, faster than 82.26% of C++ online submissions for Remove All Adjacent Duplicates In String.
 //Memory Usage: 11.8 MB, less than 100.00% of C++ online submissions for Remove All Adjacent Duplicates In String.
 
@@ -45,7 +44,6 @@ public:
 };
 
 //Stack
-//https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/discuss/294893/JavaC%2B%2BPython-Two-Pointers-and-Stack-Solution
 //Runtime: 16 ms, faster than 90.84% of C++ online submissions for Remove All Adjacent Duplicates In String.
 //Memory Usage: 12.6 MB, less than 100.00% of C++ online submissions for Remove All Adjacent Duplicates In String.
 
