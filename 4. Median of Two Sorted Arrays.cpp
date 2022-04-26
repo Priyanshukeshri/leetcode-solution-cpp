@@ -1,5 +1,4 @@
 //binary search
-//https://www.youtube.com/watch?v=LPFhl65R7ww&feature=emb_logo
 //Runtime: 36 ms, faster than 48.68% of C++ online submissions for Median of Two Sorted Arrays.
 //Memory Usage: 89.2 MB, less than 5.16% of C++ online submissions for Median of Two Sorted Arrays.
 //time: O(log(min(m,n)), space: O(1)
@@ -64,7 +63,7 @@ public:
     }
 };
 
-//binary search, revise to inclusive boundary on both sides(uglier)
+//binary search, revise to inclusive boundary on both sides
 //Runtime: 40 ms, faster than 43.83% of C++ online submissions for Median of Two Sorted Arrays.
 //Memory Usage: 89.3 MB, less than 5.16% of C++ online submissions for Median of Two Sorted Arrays.
 class Solution {
