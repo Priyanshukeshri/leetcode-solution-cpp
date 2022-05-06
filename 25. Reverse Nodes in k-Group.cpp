@@ -62,7 +62,6 @@ public:
 };
 
 //recursion
-//https://leetcode.com/problems/reverse-nodes-in-k-group/discuss/11423/Short-but-recursive-Java-code-with-comments
 //Runtime: 24 ms, faster than 26.27% of C++ online submissions for Reverse Nodes in k-Group.
 //Memory Usage: 10.1 MB, less than 77.96% of C++ online submissions for Reverse Nodes in k-Group.
 //space: O(n/k) used by recursion stack
@@ -129,7 +128,6 @@ public:
 };
 
 //non-recursive
-//https://leetcode.com/problems/reverse-nodes-in-k-group/discuss/11440/Non-recursive-Java-solution-and-idea
 /**
  * Definition for singly-linked list.
  * struct ListNode {
