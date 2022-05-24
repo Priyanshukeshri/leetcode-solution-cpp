@@ -56,7 +56,6 @@ public:
 };
 
 //DP
-//https://leetcode.com/problems/concatenated-words/discuss/348972/Java-Common-template-Word-Break-I-Word-Break-II-Concatenated-Words
 //Runtime: 28 ms, faster than 49.06% of C++ online submissions for Word Break.
 //Memory Usage: 12.9 MB, less than 52.89% of C++ online submissions for Word Break.
 class Solution {
