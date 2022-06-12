@@ -48,7 +48,6 @@ public:
 };
 
 //priority_queue, slower
-//https://leetcode.com/problems/coordinate-with-maximum-network-quality/discuss/898702/Try-all-x-y-coordinates-in-range-or-Detailed-Explanation
 //Runtime: 536 ms, faster than 18.23% of C++ online submissions for Coordinate With Maximum Network Quality.
 //Memory Usage: 39.8 MB, less than 7.40% of C++ online submissions for Coordinate With Maximum Network Quality.
 class Solution {
