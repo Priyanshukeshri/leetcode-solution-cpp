@@ -1,5 +1,4 @@
 //monotonic stack, 84. Largest Rectangle in Histogram
-//https://www.cnblogs.com/grandyang/p/4322667.html
 //Runtime: 92 ms, faster than 20.43% of C++ online submissions for Maximal Rectangle.
 //Memory Usage: 12 MB, less than 35.98% of C++ online submissions for Maximal Rectangle.
 class Solution {
@@ -44,9 +43,7 @@ public:
     }
 };
 
-//DP
-//https://www.cnblogs.com/grandyang/p/4322667.html
-//https://leetcode.com/problems/maximal-rectangle/discuss/29054/Share-my-DP-solution/175299
+//Dp
 //Runtime: 52 ms, faster than 40.28% of C++ online submissions for Maximal Rectangle.
 //Memory Usage: 11 MB, less than 61.11% of C++ online submissions for Maximal Rectangle.
 class Solution {
