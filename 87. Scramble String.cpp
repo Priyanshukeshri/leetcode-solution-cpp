@@ -56,7 +56,6 @@ public:
 };
 
 //recursion
-//https://leetcode.com/problems/scramble-string/discuss/29392/Share-my-4ms-c%2B%2B-recursive-solution
 //Runtime: 4 ms, faster than 97.37% of C++ online submissions for Scramble String.
 //Memory Usage: 12 MB, less than 59.34% of C++ online submissions for Scramble String.
 class Solution {
