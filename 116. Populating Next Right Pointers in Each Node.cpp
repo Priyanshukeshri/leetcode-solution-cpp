@@ -51,7 +51,6 @@ public:
 };
 
 //O(1) space(not consider recursion stack) recursive solution
-//https://leetcode.com/problems/populating-next-right-pointers-in-each-node/discuss/37473/My-recursive-solution(Java)
 //Runtime: 20 ms, faster than 94.93% of C++ online submissions for Populating Next Right Pointers in Each Node.
 //Memory Usage: 17.1 MB, less than 16.36% of C++ online submissions for Populating Next Right Pointers in Each Node.
 class Solution {
@@ -76,7 +75,6 @@ public:
 };
 
 //O(1) space iterative solution
-//https://leetcode.com/problems/populating-next-right-pointers-in-each-node/discuss/37472/A-simple-accepted-solution
 //Right Pointers in Each Node.
 //Memory Usage: 17 MB, less than 16.36% of C++ online submissions for Populating Next Right Pointers in Each Node.
 //time: O(N), space: O(1)
