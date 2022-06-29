@@ -1,8 +1,6 @@
 //Runtime: 40 ms, faster than 5.25% of C++ online submissions for Balanced Binary Tree.
 //Memory Usage: 17.3 MB, less than 72.64% of C++ online submissions for Balanced Binary Tree.
 
-https://leetcode.com/problems/balanced-binary-tree/discuss/35691/The-bottom-up-O(N)-solution-would-be-better
-
 /**
 top-down approach
 time complexity: 
