@@ -56,7 +56,6 @@ public:
 };
 
 //bfs
-//https://leetcode.com/problems/surrounded-regions/discuss/41612/A-really-simple-and-readable-C%2B%2B-solutionuff0conly-cost-12ms
 //Runtime: 32 ms, faster than 54.14% of C++ online submissions for Surrounded Regions.
 //Memory Usage: 11 MB, less than 44.85% of C++ online submissions for Surrounded Regions.
 class Solution {
@@ -128,7 +127,6 @@ public:
 };
 
 //union find
-//https://leetcode.com/problems/surrounded-regions/discuss/41617/Solve-it-using-Union-Find
 //Runtime: 36 ms, faster than 41.79% of C++ online submissions for Surrounded Regions.
 //Memory Usage: 10.4 MB, less than 63.29% of C++ online submissions for Surrounded Regions.
 class DSU{
