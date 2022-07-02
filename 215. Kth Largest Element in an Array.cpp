@@ -20,7 +20,6 @@ public:
 };
 
 //Divide and conquer
-//https://leetcode.com/problems/kth-largest-element-in-an-array/discuss/60495/Sharing-my-12ms-divide-and-conquer-solution-in-c%2B%2B
 // /Runtime: 8 ms, faster than 97.62% of C++ online submissions for Kth Largest Element in an Array.
 //Memory Usage: 8.7 MB, less than 100.00% of C++ online submissions for Kth Largest Element in an Array.
 class Solution {
