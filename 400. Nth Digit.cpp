@@ -11,7 +11,6 @@ public:
 };
 
 //Math
-//https://leetcode.com/problems/nth-digit/discuss/88363/Java-solution
 //Runtime: 0 ms, faster than 100.00% of C++ online submissions for Nth Digit.
 //Memory Usage: 6.1 MB, less than 45.17% of C++ online submissions for Nth Digit.
 class Solution {
