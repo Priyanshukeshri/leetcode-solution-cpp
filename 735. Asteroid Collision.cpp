@@ -89,7 +89,6 @@ public:
 };
 
 //two pointer
-//https://leetcode.com/problems/asteroid-collision/solution/131673
 //Runtime: 24 ms, faster than 81.17% of C++ online submissions for Asteroid Collision.
 //Memory Usage: 17.9 MB, less than 95.21% of C++ online submissions for Asteroid Collision.
 class Solution {
