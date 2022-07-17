@@ -47,7 +47,6 @@ public:
 Answers within 10^-5 of the true value will be accepted as correct.
 When N = 4800, the result = 0.999994994426
 */
-//https://leetcode.com/problems/soup-servings/discuss/121711/C%2B%2BJavaPython-When-N-greater-4800-just-return-1
 //Runtime: 32 ms, faster than 15.42% of C++ online submissions for Soup Servings.
 //Memory Usage: 8.9 MB, less than 41.48% of C++ online submissions for Soup Servings.
 class Solution {
@@ -118,7 +117,6 @@ public:
 };
 
 //conversion, using array
-//https://leetcode.com/problems/soup-servings/discuss/121711/C%2B%2BJavaPython-When-N-greater-4800-just-return-1
 //Runtime: 4 ms, faster than 69.96% of C++ online submissions for Soup Servings.
 //Memory Usage: 6.2 MB, less than 95.45% of C++ online submissions for Soup Servings.
 class Solution {
