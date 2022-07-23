@@ -55,7 +55,6 @@ public:
 };
 
 //math
-//https://leetcode.com/problems/task-scheduler/discuss/104500/Java-O(n)-time-O(1)-space-1-pass-no-sorting-solution-with-detailed-explanation
 //using map
 //Runtime: 140 ms, faster than 28.22% of C++ online submissions for Task Scheduler.
 //Memory Usage: 7.6 MB, less than 100.00% of C++ online submissions for Task Scheduler.
@@ -114,7 +113,6 @@ public:
 };
 
 //Priority queue, greedy
-//https://leetcode.com/problems/task-scheduler/discuss/104501/Java-PriorityQueue-solution-Similar-problem-Rearrange-string-K-distance-apart
 //Runtime: 236 ms, faster than 5.64% of C++ online submissions for Task Scheduler.
 //Memory Usage: 22.2 MB, less than 6.38% of C++ online submissions for Task Scheduler.
 class Solution {
