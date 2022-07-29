@@ -81,7 +81,6 @@ public:
 };
 
 //DP, top-bottom(starts from right-bottom corner)
-//https://leetcode.com/problems/dungeon-game/discuss/698271/Python-Short-DP-7-lines-O(mn)-top-down-explained
 //Runtime: 12 ms, faster than 83.36% of C++ online submissions for Dungeon Game.
 //Memory Usage: 9.2 MB, less than 13.19% of C++ online submissions for Dungeon Game.
 //time: O(mn), space: O(mn)
@@ -145,7 +144,6 @@ public:
 };
 
 //DP, cleaner
-//https://leetcode.com/problems/dungeon-game/discuss/698271/Python-Short-DP-7-lines-O(mn)-top-down-explained
 //Runtime: 12 ms, faster than 83.36% of C++ online submissions for Dungeon Game.
 //Memory Usage: 9 MB, less than 55.57% of C++ online submissions for Dungeon Game.
 class Solution {
@@ -176,7 +174,6 @@ public:
 };
 
 //binary search, DP
-//https://leetcode.com/problems/dungeon-game/discuss/698212/Java-Binary-search-on-answer-and-check-if-true
 //Runtime: 40 ms, faster than 5.21% of C++ online submissions for Dungeon Game.
 //Memory Usage: 11.8 MB, less than 5.33% of C++ online submissions for Dungeon Game.
 class Solution {
