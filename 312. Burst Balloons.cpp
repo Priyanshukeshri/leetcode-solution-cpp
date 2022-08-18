@@ -1,5 +1,4 @@
 //Divide and conquer and memorization
-//https://leetcode.com/problems/burst-balloons/discuss/76228/Share-some-analysis-and-explanations
 //Runtime: 28 ms, faster than 27.14% of C++ online submissions for Burst Balloons.
 //Memory Usage: 8.8 MB, less than 100.00% of C++ online submissions for Burst Balloons.
 class Solution {
@@ -34,7 +33,6 @@ public:
 };
 
 //DP
-//https://leetcode.com/problems/burst-balloons/discuss/76228/Share-some-analysis-and-explanations
 //Runtime: 16 ms, faster than 89.04% of C++ online submissions for Burst Balloons.
 //Memory Usage: 8.5 MB, less than 100.00% of C++ online submissions for Burst Balloons.
 //time: O(n^3)
